@@ -1,0 +1,8 @@
+"Index":
+  - "index.*"
+
+"CSS":
+  - "assets/css/*"
+
+"JS":
+  - "assets/js/*"
