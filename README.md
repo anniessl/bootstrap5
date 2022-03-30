@@ -1,6 +1,6 @@
 # Actividad con Bootstrap
 
-##Tema: Gustos y Pasatiempos
+## Tema: Gustos y Pasatiempos
 
 ### Incorporar:
 - Navbar
